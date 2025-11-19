@@ -1,1 +1,3 @@
-print("Hello world") 
+
+input("scegli un numero") 
+lalalalalala
